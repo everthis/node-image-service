@@ -1,3 +1,6 @@
+/*
+ * node image service
+ */
 let path = require('path');
 let Koa = require('koa');
 let fs = require('fs');
